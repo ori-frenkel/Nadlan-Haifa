@@ -1,0 +1,5 @@
+Feature,Type,Pearson_Selected,MI_Selected,RFE_Selected,SFS_Selected,Pearson_Correlation,MI_Score
+price_vs_neighborhood_median,Core,True,True,True,True,0.4789539906438004,0.39000389405945945
+size_vs_property_type,Core,True,True,True,True,0.4273893858210071,0.40563872362855324
+חדרים,Core,True,True,True,True,0.47902535613034414,0.3419192953549417
+"מ""ר",Additional,True,True,True,False,0.4737374962255561,0.45051184727643445

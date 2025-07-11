@@ -1,0 +1,12 @@
+Metric,Value
+Dataset Size,"45,184 samples"
+Number of Features,20 features
+Target Variable,מחיר (Sale Price in ₪)
+Best Model,Random Forest (Optimized)
+Test R² Score,0.7401 (74.01%)
+Test RMSE,"906,205 ₪"
+Test MAE,"106,166 ₪"
+Improvement over Linear Regression,+22.42 percentage points
+Average Prediction Error,"±906,205 ₪"
+Model Training Time,~2.8 seconds
+Hyperparameter Optimization Time,~2.6 minutes (80 trials total)
