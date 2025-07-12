@@ -1,0 +1,2 @@
+Analysis_Type,Best_Model,Best_R2,Best_RMSE,Best_MAE,Features_Used,Data_Leakage_Prevented,Key_Features,Analysis_Date
+Corrected Analysis,Random Forest,0.761,869233,109580,18,price_per_sqm removed,"מ""ר, שכונה, size_vs_property_type",2025-07-12 02:34:31
